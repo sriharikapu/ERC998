@@ -6,7 +6,7 @@ NFTs typically come in two flavours, non-fungible tokens such as ERC-721 tokens 
 
 NFT's can be coded to hold the charecteristics of the product or the item, character or avatar. In whats know as genome. 
 
-![nft genome](https://github.com/sriharikapu/ERC998/blob/main/Images/dfp.png?raw=true)
+![nft genome](https://github.com/sriharikapu/ERC998/blob/main/Images/dtp.png?raw=true)
 
 The object of ERC998 is to achive the top down inherited characteristics of the parent to child NFT's 
 
